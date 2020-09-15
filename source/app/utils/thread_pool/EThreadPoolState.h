@@ -9,7 +9,7 @@
 
 namespace appsign {
   /// Describes the current thread pool state
-  enum class EThreadPoolState : u_int8_t {
+  enum class EThreadPoolState : uint8_t {
 
     /// Thread pool is created
         Created,
