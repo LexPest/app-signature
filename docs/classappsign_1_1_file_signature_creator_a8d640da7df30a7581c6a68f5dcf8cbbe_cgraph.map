@@ -1,0 +1,4 @@
+<map id="appsign::FileSignatureCreator::write_signature_chunk_thread_func" name="appsign::FileSignatureCreator::write_signature_chunk_thread_func">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_semaphore.html#a85500356c2f7d1057d4568227e7f35b7" title="Use this function in the worker thread to wait until the notification arrives." alt="" coords="288,5,429,47"/>
+</map>

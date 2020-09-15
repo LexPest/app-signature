@@ -1,0 +1,5 @@
+<map id="appsign::ThreadPool::addJob" name="appsign::ThreadPool::addJob">
+<area shape="rect" id="node1" title=" " alt="" coords="225,39,367,80"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_thread_pool.html#a4eaec61166610309d341041a12ae57a4" title=" " alt="" coords="21,5,162,47"/>
+<area shape="rect" id="node3" href="$classappsign_1_1_job_get_signature.html#adc4aff329f78d4740603c3ea842f59dd" title="Determines if the continuation is needed and pushes the next job to the pool thread,..." alt="" coords="5,71,177,112"/>
+</map>

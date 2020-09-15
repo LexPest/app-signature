@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,56,163"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_file_signature_creator.html#ad34df2f0d3fd34a9fd997297fbc109a2" title=" " alt="" coords="104,71,299,112"/>
+<area shape="rect" id="node3" href="$classappsign_1_1_thread_pool.html#a74a71f7d7a6fb005bfc1685b51493da7" title="Returns the total worker thread count." alt="" coords="393,5,535,47"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#af1e0b7bffce345bfd964f47a109a8f77" title=" " alt="" coords="106,137,297,163"/>
+<area shape="rect" id="node9" href="$classappsign_1_1_thread_pool.html#af7f54144ddf3fe8e3001cd3fcbfc707b" title=" " alt="" coords="131,188,272,229"/>
+<area shape="rect" id="node11" href="$structappsign_1_1_signature_creation_params.html#a38272245e95a658b41e026792e3c94a6" title="Validates the provided params, will throw an exception if something isn&#39;t right." alt="" coords="112,253,291,295"/>
+<area shape="rect" id="node4" href="$classappsign_1_1_file_signature_creator.html#afc4732430aec71feec1e5e454f273b2e" title=" " alt="" coords="367,71,561,112"/>
+<area shape="rect" id="node6" href="$classappsign_1_1_file_signature_creator.html#a8d640da7df30a7581c6a68f5dcf8cbbe" title=" " alt="" coords="347,136,581,177"/>
+<area shape="rect" id="node5" href="$classappsign_1_1_semaphore.html#a04d9259eb2fa93e9a64eaf78290f023a" title="Notify the semaphore (and the worker thread), increases the notifications count by 1." alt="" coords="629,71,771,112"/>
+<area shape="rect" id="node7" href="$classappsign_1_1_semaphore.html#a85500356c2f7d1057d4568227e7f35b7" title="Use this function in the worker thread to wait until the notification arrives." alt="" coords="629,136,771,177"/>
+<area shape="rect" id="node10" href="$classappsign_1_1_thread_pool.html#af16fa51aa1c9a36fe4c59b110493b3ae" title="The main thread work function, waits for the jobs and performs them." alt="" coords="391,201,537,243"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="appsign::JobGetSignature" name="appsign::JobGetSignature">
+<area shape="rect" id="node1" title="Job implementation for the reading a block from the file and hash generation." alt="" coords="5,213,177,240"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_job_base.html" title="Abstract class for the simple job definition, that is intended for the execution in a ThreadPool." alt="" coords="7,117,133,143"/>
+<area shape="rect" id="node3" href="$structappsign_1_1internal_1_1_file_signature_creation_context.html" title="Context holds all shared data that is used during the signature creation process." alt="" coords="157,109,351,151"/>
+<area shape="rect" id="node4" href="$classappsign_1_1_semaphore.html" title=" " alt="" coords="18,13,159,39"/>
+<area shape="rect" id="node5" href="$classappsign_1_1_thread_pool.html" title=" " alt="" coords="183,13,325,39"/>
+<area shape="rect" id="node6" href="$structappsign_1_1_signature_creation_params.html" title=" " alt="" coords="349,5,527,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="appsign::JobGetSignature" name="appsign::JobGetSignature">
+<area shape="rect" id="node1" title="Job implementation for the reading a block from the file and hash generation." alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_job_base.html" title="Abstract class for the simple job definition, that is intended for the execution in a ThreadPool." alt="" coords="28,5,155,32"/>
+</map>

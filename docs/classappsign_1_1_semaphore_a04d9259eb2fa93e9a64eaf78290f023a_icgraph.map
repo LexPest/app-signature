@@ -1,0 +1,7 @@
+<map id="appsign::Semaphore::notify" name="appsign::Semaphore::notify">
+<area shape="rect" id="node1" title="Notify the semaphore (and the worker thread), increases the notifications count by 1." alt="" coords="589,39,731,80"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_job_get_signature.html#a671808d075148ae0621dfee1aed9932d" title="Reads from the file and generates hash, writes to the buffer map." alt="" coords="358,5,530,47"/>
+<area shape="rect" id="node3" href="$classappsign_1_1_file_signature_creator.html#afc4732430aec71feec1e5e454f273b2e" title=" " alt="" coords="347,71,541,112"/>
+<area shape="rect" id="node4" href="$classappsign_1_1_file_signature_creator.html#ad34df2f0d3fd34a9fd997297fbc109a2" title=" " alt="" coords="104,71,299,112"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,78,56,105"/>
+</map>

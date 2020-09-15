@@ -1,0 +1,5 @@
+<map id="appsign::ThreadPool::init" name="appsign::ThreadPool::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_thread_pool.html#af7f54144ddf3fe8e3001cd3fcbfc707b" title=" " alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classappsign_1_1_thread_pool.html#af16fa51aa1c9a36fe4c59b110493b3ae" title="The main thread work function, waits for the jobs and performs them." alt="" coords="384,5,531,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="appsign::FileSignatureCreator::join_output_worker_thread" name="appsign::FileSignatureCreator::join_output_worker_thread">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_semaphore.html#a04d9259eb2fa93e9a64eaf78290f023a" title="Notify the semaphore (and the worker thread), increases the notifications count by 1." alt="" coords="248,5,389,47"/>
+</map>

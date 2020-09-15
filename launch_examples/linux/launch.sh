@@ -1,0 +1,1 @@
+app-signature "<input_file>" "<output_file>" [block_size]

@@ -1,0 +1,6 @@
+<map id="appsign::internal::FileSignatureCreationContext" name="appsign::internal::FileSignatureCreationContext">
+<area shape="rect" id="node1" title="Context holds all shared data that is used during the signature creation process." alt="" coords="145,109,338,151"/>
+<area shape="rect" id="node2" href="$classappsign_1_1_semaphore.html" title=" " alt="" coords="5,13,147,39"/>
+<area shape="rect" id="node3" href="$classappsign_1_1_thread_pool.html" title=" " alt="" coords="171,13,312,39"/>
+<area shape="rect" id="node4" href="$structappsign_1_1_signature_creation_params.html" title=" " alt="" coords="336,5,515,47"/>
+</map>
