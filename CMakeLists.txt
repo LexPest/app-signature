@@ -4,7 +4,7 @@ project(app_signature)
 set(CMAKE_CXX_STANDARD 11)
 
 set(VERSION_MAJOR 2)
-set(VERSION_MINOR 0)
+set(VERSION_MINOR 1)
 set(VERSION_PATCH 0)
 
 add_executable(app_signature source/app/utils/thread_pool/ThreadPool.cpp source/app/utils/thread_pool/ThreadPool.h source/app/utils/thread_pool/JobBase.cpp source/app/utils/thread_pool/JobBase.h source/app/sign/jobs/JobGetSignature.cpp source/app/sign/jobs/JobGetSignature.h source/app/main.cpp source/app/sign/SignatureCreationParams.cpp source/app/sign/SignatureCreationParams.h source/app/sign/FileSignatureCreator.cpp source/app/sign/FileSignatureCreator.h source/app/utils/thread_pool/EThreadPoolState.h
@@ -12,5 +12,5 @@ add_executable(app_signature source/app/utils/thread_pool/ThreadPool.cpp source/
 target_include_directories(app_signature PRIVATE source)
 
 if (UNIX AND NOT APPLE)
-    target_link_options(app-signature PRIVATE "-lpthread")
+    target_link_options(app_signature PRIVATE "-pthread")
 endif()
