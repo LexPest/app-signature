@@ -9,6 +9,7 @@
 #include <cstring>
 #include <iostream>
 #include <vector>
+#include <memory>
 
 /// A small class for calculating MD5 hashes of strings or byte arrays
 /// it is not meant to be fast or secure

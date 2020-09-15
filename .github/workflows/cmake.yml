@@ -1,4 +1,4 @@
-name: CMake
+name: CMake Cross-Platform Build
 
 on: [push]
 
@@ -8,11 +8,15 @@ env:
 
 jobs:
   build:
+    strategy:
+        matrix:
+          os: [ubuntu-latest, windows-latest, macos-latest]
+
     # The CMake configure and build commands are platform agnostic and should work equally
     # well on Windows or Mac.  You can convert this to a matrix build if you need
     # cross-platform coverage.
     # See: https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#configuring-a-build-matrix
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
 
     steps:
     - uses: actions/checkout@v2
