@@ -1,4 +1,7 @@
 ## app-signature
+
+![CMake Cross-Platform Build](https://github.com/LexPest/app-signature/workflows/CMake%20Cross-Platform%20Build/badge.svg)
+
 ### Description
 Provides the functionality for the hash generation from the specified input file (other words, generates a file signature). Hashes are generated block-by-block, blocks are separated by the specified size (in bytes). Outputs the signature in the specified output file.
 
